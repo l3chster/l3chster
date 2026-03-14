@@ -2,7 +2,7 @@
 
 ### 🏗️ Aspiring Data Engineer | Python, SQL and Java Enthusiast
 
-I am a passionate Computer Science and Artificial Inteligence second-year student focused on the "backstage" of data. I love building robust structures, optimizing queries, and automating data collection. Currently, I'm bridging the gap between software engineering and data analysis.
+I am a passionate Computer Science and Intelligent Systems second-year student focused on the "backstage" of data. I love building robust structures, optimizing queries, and automating data collection. Currently, I'm bridging the gap between software engineering and data analysis.
 
 ---
 
