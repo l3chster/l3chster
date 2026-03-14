@@ -9,10 +9,8 @@ I am a passionate Computer Science and Artificial Inteligence second-year studen
 ### ⚡ About Me
 
 - 🎓 Student at AGH University of Krakow 
-- 🐍 **Focusing on:** Automation using `Python` and the `Requests` library to fetch real-world data.
 - 📊 **Analyzing:** Mastering `Pandas` and `NumPy` for efficient data transformation.
 - 💡 **Goal:** To transition from writing scripts to architecting data systems.
-
 ---
 
 ### ⚙️ The Engine Room
