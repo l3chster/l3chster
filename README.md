@@ -17,10 +17,10 @@ I am a passionate Computer Science and Artificial Inteligence second-year studen
 
 ### ⚙️ The Engine Room
 
-* **Languages:** `Python`, `SQL` (PostgreSQL / MySQL), `Java`
+* **Languages:** `Python`, `SQL` (PostgreSQL / MySQL), `Java (basic)`
 * **Data Processing:** `Pandas`, `NumPy`
 * **API & Web:** `Requests` (API Integration & Automation)
-* **Tools:** `Git`, `Linux Shell`, `Jupyter Notebooks`
+* **Tools:** `Git`, `Linux Shell (basic)`, `Jupyter Notebooks`
 ---
 
 ### 📫 Let's Connect!
