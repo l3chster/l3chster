@@ -15,7 +15,7 @@ I am a passionate Computer Science and Intelligent Systems second-year student f
 
 ### ⚙️ The Engine Room
 
-* **Languages:** `Python`, `SQL` (PostgreSQL / MySQL), `Java` (basic)
+* **Languages:** `Python`, `SQL` (PostgreSQL), `Java` (basic)
 * **Data Processing:** `Pandas`, `NumPy`
 * **API & Web:** `Requests` (API Integration & Automation)
 * **Tools:** `Git`, `Linux Shell` (basic), `Jupyter Notebooks`
