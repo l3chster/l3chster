@@ -1,29 +1,14 @@
 # Hi there, I'm Bartek! 👋
 
-### 🏗️ Aspiring Data Engineer | Python and SQL Enthusiast
+### 🏗️ Aspiring Data Engineer | Python & Cloud Data Platforms
 
-I am a passionate Computer Science and Intelligent Systems second-year student focused on the "backstage" of data. I love building robust structures, optimizing queries, and automating data collection. Currently, I'm bridging the gap between software engineering and data analysis.
-
----
-
-### ⚡ About Me
-
-- 🎓 Student at AGH University of Krakow 
-- 📊 **Analyzing:** Mastering `Pandas` and `NumPy` for efficient data transformation.
-- 💡 **Goal:** To transition from writing scripts to architecting data systems.
----
-
-### ⚙️ The Engine Room
-
-* **Languages:** `Python`, `SQL` (PostgreSQL), `Java` (basic)
-* **Data Processing:** `Pandas`, `NumPy`
-* **API & Web:** `Requests` (API Integration & Automation)
-* **Tools:** `Git`, `Linux Shell` (basic), `Jupyter Notebooks`
----
-
-### 📫 Let's Connect!
-
-* **Email:** lechster1.0@gmail.com
+I am a 3rd-year Computer Science student at AGH University of Krakow focused on building scalable data pipelines, processing systems, and cloud-based ELT workflows. 
 
 ---
-*"In God we trust, all others must bring data."* — W. Edwards Deming ✨
+
+### ⚙️ Tech Stack & Tools
+
+* **Languages & Databases:** Python, SQL (PostgreSQL), Spark SQL
+* **Data Engineering & Processing:** PySpark, Databricks (Delta Lake, Medallion Architecture), Pandas, NumPy
+* **Cloud & Infrastructure:** Azure (ADLS Gen2, Event Hubs, Blob Storage), Linux Shell
+* **Developer Tools:** Git, Jupyter Notebooks, Power BI
